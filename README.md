@@ -13,19 +13,14 @@ This project demonstrates a basic PySpark data analysis workflow using a CSV fil
 
 ## Getting Started
 
-1. Clone the repository:
 
-    ```bash
-    
-    ```
-
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the PySpark script:
+2. Run the PySpark script:
 
     ```bash
     python pyspark_data_analysis.py
